@@ -1,0 +1,7 @@
+{
+    "CLIENT_ID": "",
+    "CLIENT_SECRET": "",
+    "TRANSPORT": "ipc",
+    "ADB_BIN": "adb",
+    "AAPT_BIN": "aapt"
+}
