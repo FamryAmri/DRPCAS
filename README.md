@@ -7,6 +7,10 @@ atleast you have install packages on your Linux.
 
 1. Android-SDK
 2. AAPT
+3. NODEJS
+4. NPM
+
+For Windows, you just need to install **Nodejs (included npm)**.
 
 And yeah, this will be need your pc laptop or pc desktop whatever.
 So anyway, make sure that you have to need to turn on **Developer mode** > USB Debugging on your android phone.
